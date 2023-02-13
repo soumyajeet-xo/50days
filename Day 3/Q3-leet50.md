@@ -1,4 +1,4 @@
-50. Pow(x, n)
+# 50. Pow(x, n)
 ### Explanation : Lecture & dsa one ; a^b = (a^2)^(b/2) when b is even and a*a^(b-1) when b is odd
 ```
 class Solution {
